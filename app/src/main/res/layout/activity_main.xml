@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.jushenziao.admin.ledview.MainActivity">
+
+    <com.jushenziao.admin.ledview.LedView
+        android:id="@+id/led1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.jushenziao.admin.ledview.LedView
+        android:id="@+id/led2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.jushenziao.admin.ledview.LedView
+        android:id="@+id/led3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.jushenziao.admin.ledview.LedView
+        android:id="@+id/led4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.jushenziao.admin.ledview.LedView
+        android:id="@+id/led5"
+        app:led_shape="shape_recft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.jushenziao.admin.ledview.LedView
+        android:id="@+id/led6"
+        app:led_shape="shape_recft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.jushenziao.admin.ledview.LedView
+        android:id="@+id/led7"
+        app:led_shape="shape_recft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.jushenziao.admin.ledview.LedView
+        android:id="@+id/led8"
+        app:led_shape="shape_recft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>
