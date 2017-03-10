@@ -4,3 +4,4 @@
 支持多种状态，闪烁振铃等
  ![image](https://github.com/jushenziao/LedView/blob/master/ezgif.com-resize.gif)
  by cloud
+ by jushenziao

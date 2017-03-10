@@ -31,6 +31,7 @@ public class LedView extends ImageView {
     private Paint mLedPaint;
     private Paint mBGPaint;
     private RectF mBGRectF;
+	
     private RectF mLedRectF;
 
     public LedView(Context context) {
